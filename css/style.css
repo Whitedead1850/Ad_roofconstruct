@@ -1,0 +1,105 @@
+header.masthead2 {
+    padding-top: 10.5rem;
+    padding-bottom: 6rem;
+    height: 500px;
+    background-image: url("../img/img3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+}
+
+header.masthead3 {
+    padding-top: 10.5rem;
+    padding-bottom: 6rem;
+    height: 500px;
+    background-image: url("../img/img3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+}
+
+header.masthead4 {
+    padding-top: 10.5rem;
+    padding-bottom: 6rem;
+    height: 500px;
+    background-image: url("../img/img3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+}
+
+header.masthead5 {
+    padding-top: 10.5rem;
+    padding-bottom: 6rem;
+    height: 500px;
+    background-image: url("../img/img3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+}
+
+header.masthead6 {
+    padding-top: 10.5rem;
+    padding-bottom: 6rem;
+    height: 500px;
+    background-image: url("../img/img3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+}
+
+header.masthead7 {
+    padding-top: 10.5rem;
+    padding-bottom: 6rem;
+    height: 500px;
+    background-image: url("../img/img3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+}
+
+header.masthead8 {
+    padding-top: 10.5rem;
+    padding-bottom: 6rem;
+    height: 500px;
+    background-image: url("../img/img3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+}
+
+hr {
+    width: 80px;
+    height: 5px;
+    background-color: black;
+}
+
+
+/* schuinen daken */
+
+#sidepages .container {
+    max-width: 70% !important;
+}
+
+#sidepages p {
+    font-size: 1.4rem;
+}
+
+#sidepages section:nth-of-type(odd) {
+    background-color: #ffffff;
+}
+
+#sidepages section:nth-of-type(even) {
+    background-color: #d8d5d5ca;
+}
+
+footer p {
+    font-size: 1rem !important;
+}
