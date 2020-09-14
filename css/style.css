@@ -88,10 +88,10 @@ hr {
 }
 
 
-/* schuinen daken */
+/* alle pagina's */
 
 #sidepages .container {
-    max-width: 70% !important;
+    max-width: 90% !important;
 }
 
 #sidepages p {
@@ -108,4 +108,11 @@ hr {
 
 footer p {
     font-size: 1rem !important;
+}
+
+
+/* button transparenty */
+
+.btn-default {
+    background: transparent;
 }
