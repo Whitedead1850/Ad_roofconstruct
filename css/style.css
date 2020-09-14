@@ -1,3 +1,5 @@
+/* schuine daken */
+
 header.masthead2 {
     padding-top: 10.5rem;
     padding-bottom: 6rem;
@@ -9,62 +11,66 @@ header.masthead2 {
     background-size: cover;
 }
 
+
+/* platte daken */
+
 header.masthead3 {
     padding-top: 10.5rem;
     padding-bottom: 6rem;
     height: 500px;
-    background-image: url("../img/img3.jpg");
+    background-image: url("../img/constructie2.jpg");
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
     background-size: cover;
 }
+
+
+/* dakgoten */
 
 header.masthead4 {
     padding-top: 10.5rem;
     padding-bottom: 6rem;
     height: 500px;
-    background-image: url("../img/img3.jpg");
+    background-image: url("../img/dakgoten-vervangen.jpg");
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
     background-size: cover;
 }
+
+
+/* velux */
 
 header.masthead5 {
     padding-top: 10.5rem;
     padding-bottom: 6rem;
     height: 500px;
-    background-image: url("../img/img3.jpg");
+    background-image: url("../img/velux1.jpg");
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
     background-size: cover;
 }
+
+
+/* terras */
 
 header.masthead6 {
     padding-top: 10.5rem;
     padding-bottom: 6rem;
     height: 500px;
-    background-image: url("../img/img3.jpg");
+    background-image: url("../img/dakterras1.jpg");
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
     background-size: cover;
 }
+
+
+/* renovaties */
 
 header.masthead7 {
-    padding-top: 10.5rem;
-    padding-bottom: 6rem;
-    height: 500px;
-    background-image: url("../img/img3.jpg");
-    background-repeat: no-repeat;
-    background-attachment: scroll;
-    background-position: center center;
-    background-size: cover;
-}
-
-header.masthead8 {
     padding-top: 10.5rem;
     padding-bottom: 6rem;
     height: 500px;
