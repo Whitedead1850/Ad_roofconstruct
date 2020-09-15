@@ -3248,13 +3248,17 @@ input[type=button].btn-block {
     padding: 0.5rem 0;
     margin: 0.125rem 0 0;
     font-size: 1rem;
-    color: #212529;
+    color: #fed136;
     text-align: left;
     list-style: none;
     background-color: #212529;
     background-clip: padding-box;
     border: 1px solid rgba(0, 0, 0, 0.15);
     border-radius: 0.25rem;
+}
+
+.dropdown-menu .nav-link:hover {
+    color: #fed136 !important;
 }
 
 .dropdown-menu-left {
