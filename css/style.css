@@ -162,11 +162,21 @@ footer p {
 
 /* Hide the slides by default */
 
-.mySlides {
+.mySlides,
+.mySlides_2,
+.mySlides_3,
+.mySlides_4,
+.mySlides_5,
+.mySlides_6 {
     display: none;
 }
 
-.mySlides img {
+.mySlides img,
+.mySlides_2 img,
+.mySlides_3 img,
+.mySlides_4 img,
+.mySlides_5 img,
+.mySlides_6 img {
     height: 60vh;
     margin-bottom: 3%;
 }
